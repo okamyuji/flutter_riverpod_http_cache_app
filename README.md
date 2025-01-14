@@ -53,7 +53,7 @@
 5. Hiveの型アダプターの生成
 
     ```bash
-    fvm flutter packages pub run build_runner build
+    fvm dart run build_runner build
     ```
 
 6. アプリケーションの実行
